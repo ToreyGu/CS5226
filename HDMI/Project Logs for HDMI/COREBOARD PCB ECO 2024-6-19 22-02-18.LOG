@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=RX1_P Pin=C67-2
+Added Pin To Net: NetName=TX1_P Pin=C68-2
+Added Pin To Net: NetName=TX1_P Pin=C69-2
+Added Pin To Net: NetName=RX1_P Pin=C72-2
+Added Pin To Net: NetName=RX1_P Pin=U5-1
+Added Pin To Net: NetName=RX1_P Pin=U5-2
+Added Pin To Net: NetName=TX1_P Pin=U5-4
+Added Pin To Net: NetName=TX1_P Pin=U5-5
+Change Net Name : Old Net Name=NetC40_2 New Net Name=SSTX_P
+Change Net Name : Old Net Name=NetC42_2 New Net Name=SSTX_N
+Change Net Name : Old Net Name=NetR54_1 New Net Name=SSRX_P
+Change Net Name : Old Net Name=NetR58_1 New Net Name=SSRX_N
+Added Differential Pair: Name=SSRX
+Added Differential Pair: Name=SSTX
+Added Member To Class: ClassName=1_电源 Member=Component Q1 2N7002
+Added Member To Class: ClassName=1_电源 Member=Component Q6 AO4805
+Added Member To Class: ClassName=1_电源 Member=Component R10 10K
+Added Member To Class: ClassName=1_电源 Member=Component U6 LP3220AB5F

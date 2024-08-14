@@ -1,0 +1,647 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=P12 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=P13 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=DOWN_VBUS Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V-20V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=UP_VBUS Pin=C5-2
+Added Pin To Net: NetName=VDD33 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=CH552_3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C11-2
+Added Pin To Net: NetName=VDD33 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VDD10 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VDD10 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=VDD10 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VDD33 Pin=C20-2
+Added Pin To Net: NetName=VDD10 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=VDD10 Pin=C22-2
+Added Pin To Net: NetName=VDD10 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC30_2 Pin=C31-2
+Added Pin To Net: NetName=VDD33 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=VDD10 Pin=C34-2
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=VDD33 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=LDO33_OUT Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+5V Pin=C39-2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=UFP_CC2_VCON Pin=C41-2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=VDD10 Pin=C43-2
+Added Pin To Net: NetName=+5V Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=+5V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=+5V Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=VDD10 Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=VDD10 Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=VDD10 Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=LDO33_OUT Pin=C50-2
+Added Pin To Net: NetName=+5V Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=+5V Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=+5V Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=+5V Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=VDD33 Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=VDD33 Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=VDD33 Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=+5V Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=+5V Pin=C59-2
+Added Pin To Net: NetName=+5V Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C60-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=5V-20V Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=5V-20V Pin=C62-2
+Added Pin To Net: NetName=5V-20V Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C63-2
+Added Pin To Net: NetName=GND Pin=C65-2
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=DP_LANE0+ Pin=C70-2
+Added Pin To Net: NetName=DP_LANE0- Pin=C71-2
+Added Pin To Net: NetName=NetC72_2 Pin=C72-2
+Added Pin To Net: NetName=DP_LANE1+ Pin=C73-2
+Added Pin To Net: NetName=DP_LANE1- Pin=C74-2
+Added Pin To Net: NetName=NetC75_2 Pin=C75-2
+Added Pin To Net: NetName=NetC76_2 Pin=C76-2
+Added Pin To Net: NetName=NetC77_2 Pin=C77-2
+Added Pin To Net: NetName=NetC78_2 Pin=C78-2
+Added Pin To Net: NetName=NetCFF_1 Pin=CFF-1
+Added Pin To Net: NetName=GND Pin=CFF-2
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-8
+Added Pin To Net: NetName=GND Pin=CN1-11
+Added Pin To Net: NetName=HDMI_SCL Pin=CN1-15
+Added Pin To Net: NetName=HDMI_SDA Pin=CN1-16
+Added Pin To Net: NetName=GND Pin=CN1-17
+Added Pin To Net: NetName=5V_HDMI Pin=CN1-18
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN1-20
+Added Pin To Net: NetName=GND Pin=CN2-A1
+Added Pin To Net: NetName=UP_VBUS Pin=CN2-A4
+Added Pin To Net: NetName=NetCN2_A5 Pin=CN2-A5
+Added Pin To Net: NetName=UP_VBUS Pin=CN2-A9
+Added Pin To Net: NetName=GND Pin=CN2-A12
+Added Pin To Net: NetName=GND Pin=CN2-B1
+Added Pin To Net: NetName=UP_VBUS Pin=CN2-B4
+Added Pin To Net: NetName=UFP_CC2_VCON Pin=CN2-B5
+Added Pin To Net: NetName=NetCN2_B6 Pin=CN2-B6
+Added Pin To Net: NetName=NetCN2_B7 Pin=CN2-B7
+Added Pin To Net: NetName=UP_VBUS Pin=CN2-B9
+Added Pin To Net: NetName=GND Pin=CN2-B12
+Added Pin To Net: NetName=GND Pin=CN2-SH1
+Added Pin To Net: NetName=GND Pin=CN2-SH2
+Added Pin To Net: NetName=GND Pin=CN2-SH3
+Added Pin To Net: NetName=GND Pin=CN2-SH4
+Added Pin To Net: NetName=+5V Pin=CV1-1
+Added Pin To Net: NetName=GND Pin=CV1-2
+Added Pin To Net: NetName=+5V Pin=CV2-1
+Added Pin To Net: NetName=GND Pin=CV2-2
+Added Pin To Net: NetName=5V_HDMI Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=D1-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=VDD10 Pin=L5-2
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=VDD33 Pin=L6-2
+Added Pin To Net: NetName=NetD3_1 Pin=L7-1
+Added Pin To Net: NetName=+5V Pin=L7-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=DOWN_VBUS_DIS Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=UP_VBUS_DIS Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=DOWN_VBUS_EN Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=UP_VBUS_EN Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=VDD33 Pin=Q5-1
+Added Pin To Net: NetName=POL Pin=Q5-2
+Added Pin To Net: NetName=NetLED1_2 Pin=Q5-3
+Added Pin To Net: NetName=5V-20V Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=5V-20V Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_4 Pin=Q6-4
+Added Pin To Net: NetName=DOWN_VBUS Pin=Q6-5
+Added Pin To Net: NetName=DOWN_VBUS Pin=Q6-6
+Added Pin To Net: NetName=UP_VBUS Pin=Q6-7
+Added Pin To Net: NetName=UP_VBUS Pin=Q6-8
+Added Pin To Net: NetName=DOWN_VBUS Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=DOWN_VBUS Pin=R2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-2
+Added Pin To Net: NetName=UP_VBUS Pin=R3-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R3-2
+Added Pin To Net: NetName=UP_VBUS Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=5V-20V Pin=R5-1
+Added Pin To Net: NetName=NetQ6_4 Pin=R5-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R6-1
+Added Pin To Net: NetName=5V-20V Pin=R6-2
+Added Pin To Net: NetName=NetQ6_4 Pin=R7-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R7-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R8-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R8-2
+Added Pin To Net: NetName=HDMI_SDA Pin=R9-1
+Added Pin To Net: NetName=5V_HDMI Pin=R9-2
+Added Pin To Net: NetName=DOWN_VBUS_DIS Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=5V_HDMI Pin=R11-1
+Added Pin To Net: NetName=HDMI_SCL Pin=R11-2
+Added Pin To Net: NetName=UP_VBUS_DIS Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetC10_2 Pin=R15-1
+Added Pin To Net: NetName=NetC14_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=DOWN_VBUS_EN Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=UP_VBUS_EN Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetC17_1 Pin=R20-1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetC15_1 Pin=R23-2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR21_1 Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=R28-2
+Added Pin To Net: NetName=VDD33 Pin=R29-1
+Added Pin To Net: NetName=POL Pin=R29-2
+Added Pin To Net: NetName=+5V Pin=R30-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R30-2
+Added Pin To Net: NetName=VBUS_MON_D Pin=R32-1
+Added Pin To Net: NetName=DOWN_VBUS Pin=R32-2
+Added Pin To Net: NetName=VBUS_MON_U Pin=R33-1
+Added Pin To Net: NetName=UP_VBUS Pin=R33-2
+Added Pin To Net: NetName=POL Pin=R34-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=VBUS_MON_D Pin=R36-2
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=VBUS_MON_U Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=NetC33_1 Pin=R40-2
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetC36_2 Pin=R41-2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetC35_2 Pin=R42-2
+Added Pin To Net: NetName=NetR41_1 Pin=R43-1
+Added Pin To Net: NetName=NetC35_2 Pin=R43-2
+Added Pin To Net: NetName=NetR42_1 Pin=R44-1
+Added Pin To Net: NetName=NetC36_2 Pin=R44-2
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=VDD33 Pin=R45-2
+Added Pin To Net: NetName=VDD33 Pin=R46-2
+Added Pin To Net: NetName=NetCN2_A5 Pin=R47-2
+Added Pin To Net: NetName=VDD33 Pin=R48-2
+Added Pin To Net: NetName=VDD33 Pin=R49-2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetCN2_B7 Pin=R52-1
+Added Pin To Net: NetName=NetCN2_B6 Pin=R53-1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=NetR55_2 Pin=R55-2
+Added Pin To Net: NetName=VDD33 Pin=R56-1
+Added Pin To Net: NetName=NetR55_2 Pin=R56-2
+Added Pin To Net: NetName=VDD33 Pin=R57-1
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR58_1 Pin=R58-1
+Added Pin To Net: NetName=UFP_CC2_VCON Pin=R59-1
+Added Pin To Net: NetName=GND Pin=R59-2
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=VDD10 Pin=R60-2
+Added Pin To Net: NetName=POL Pin=R61-1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=VDD33 Pin=R62-2
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=POL Pin=R63-2
+Added Pin To Net: NetName=+5V Pin=R64-1
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=GND Pin=R66-1
+Added Pin To Net: NetName=GND Pin=R67-1
+Added Pin To Net: NetName=+5V Pin=R68-1
+Added Pin To Net: NetName=NetR68_2 Pin=R68-2
+Added Pin To Net: NetName=VDD33 Pin=R69-1
+Added Pin To Net: NetName=LDO33_OUT Pin=R69-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=NetR64_2 Pin=R70-2
+Added Pin To Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=NetR60_1 Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=NetR68_2 Pin=R72-2
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=NetR62_1 Pin=R73-2
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=NetCFF_1 Pin=R74-2
+Added Pin To Net: NetName=NetCFF_1 Pin=R75-1
+Added Pin To Net: NetName=5V-20V Pin=R75-2
+Added Pin To Net: NetName=NetR76_1 Pin=R76-1
+Added Pin To Net: NetName=+5V Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=NetR76_1 Pin=R77-2
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=5V_HDMI Pin=R78-2
+Added Pin To Net: NetName=NetC8_2 Pin=R80-2
+Added Pin To Net: NetName=NetC7_2 Pin=R81-2
+Added Pin To Net: NetName=NetC13_1 Pin=R82-2
+Added Pin To Net: NetName=+5V Pin=SSSO1-1
+Added Pin To Net: NetName=GND Pin=SSSO1-4
+Added Pin To Net: NetName=GND Pin=SSSO1-7
+Added Pin To Net: NetName=NetC15_1 Pin=SSSO1-10
+Added Pin To Net: NetName=NetC15_1 Pin=SSSO1-11
+Added Pin To Net: NetName=+5V Pin=SW1-1
+Added Pin To Net: NetName=NetR16_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR21_2 Pin=SW2-1
+Added Pin To Net: NetName=CH552_3V3 Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=NetC8_2 Pin=U1-1
+Added Pin To Net: NetName=NetC7_2 Pin=U1-2
+Added Pin To Net: NetName=NetC13_1 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetR78_1 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=NetC10_2 Pin=U1-13
+Added Pin To Net: NetName=NetC17_1 Pin=U1-14
+Added Pin To Net: NetName=NetR14_2 Pin=U2-1
+Added Pin To Net: NetName=NetR13_2 Pin=U2-2
+Added Pin To Net: NetName=NetR17_2 Pin=U2-3
+Added Pin To Net: NetName=NetC14_1 Pin=U2-6
+Added Pin To Net: NetName=NetR24_2 Pin=U2-8
+Added Pin To Net: NetName=NetLED1_2 Pin=U2-10
+Added Pin To Net: NetName=NetR21_1 Pin=U2-14
+Added Pin To Net: NetName=NetR22_1 Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=+5V Pin=U2-19
+Added Pin To Net: NetName=CH552_3V3 Pin=U2-20
+Added Pin To Net: NetName=VDD33 Pin=U3-4
+Added Pin To Net: NetName=VDD10 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetC30_2 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-14
+Added Pin To Net: NetName=VDD10 Pin=U3-17
+Added Pin To Net: NetName=VDD33 Pin=U3-18
+Added Pin To Net: NetName=NetR50_1 Pin=U3-19
+Added Pin To Net: NetName=NetR51_1 Pin=U3-20
+Added Pin To Net: NetName=VDD10 Pin=U3-21
+Added Pin To Net: NetName=GND Pin=U3-22
+Added Pin To Net: NetName=NetR45_1 Pin=U3-25
+Added Pin To Net: NetName=LDO33_OUT Pin=U3-30
+Added Pin To Net: NetName=LDO33_OUT Pin=U3-31
+Added Pin To Net: NetName=+5V Pin=U3-32
+Added Pin To Net: NetName=+5V Pin=U3-33
+Added Pin To Net: NetName=VDD33 Pin=U3-37
+Added Pin To Net: NetName=VDD10 Pin=U3-42
+Added Pin To Net: NetName=VDD10 Pin=U3-43
+Added Pin To Net: NetName=VDD10 Pin=U3-52
+Added Pin To Net: NetName=VDD10 Pin=U3-53
+Added Pin To Net: NetName=VDD33 Pin=U3-54
+Added Pin To Net: NetName=VDD33 Pin=U3-55
+Added Pin To Net: NetName=VDD10 Pin=U3-62
+Added Pin To Net: NetName=GND Pin=U3-63
+Added Pin To Net: NetName=NetR27_2 Pin=U3-68
+Added Pin To Net: NetName=GND Pin=U3-69
+Added Pin To Net: NetName=NetC72_2 Pin=U5-1
+Added Pin To Net: NetName=NetC67_2 Pin=U5-2
+Added Pin To Net: NetName=NetR61_2 Pin=U5-3
+Added Pin To Net: NetName=NetC68_2 Pin=U5-4
+Added Pin To Net: NetName=NetC69_2 Pin=U5-5
+Added Pin To Net: NetName=NetC75_2 Pin=U5-6
+Added Pin To Net: NetName=NetC76_2 Pin=U5-7
+Added Pin To Net: NetName=NetR55_2 Pin=U5-8
+Added Pin To Net: NetName=NetC77_2 Pin=U5-9
+Added Pin To Net: NetName=NetC78_2 Pin=U5-10
+Added Pin To Net: NetName=NetR42_1 Pin=U5-13
+Added Pin To Net: NetName=NetR41_1 Pin=U5-14
+Added Pin To Net: NetName=DP_LANE1- Pin=U5-15
+Added Pin To Net: NetName=DP_LANE1+ Pin=U5-16
+Added Pin To Net: NetName=NetR57_2 Pin=U5-17
+Added Pin To Net: NetName=DP_LANE0- Pin=U5-18
+Added Pin To Net: NetName=DP_LANE0+ Pin=U5-19
+Added Pin To Net: NetName=VDD33 Pin=U5-22
+Added Pin To Net: NetName=NetC42_2 Pin=U5-25
+Added Pin To Net: NetName=NetC40_2 Pin=U5-26
+Added Pin To Net: NetName=NetR58_1 Pin=U5-27
+Added Pin To Net: NetName=NetR54_1 Pin=U5-28
+Added Pin To Net: NetName=GND Pin=U5-29
+Added Pin To Net: NetName=NetR64_2 Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetL5_1 Pin=U6-3
+Added Pin To Net: NetName=+5V Pin=U6-4
+Added Pin To Net: NetName=NetR60_1 Pin=U6-5
+Added Pin To Net: NetName=NetR68_2 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=NetL6_1 Pin=U7-3
+Added Pin To Net: NetName=+5V Pin=U7-4
+Added Pin To Net: NetName=NetR62_1 Pin=U7-5
+Added Pin To Net: NetName=5V-20V Pin=U8-2
+Added Pin To Net: NetName=NetD3_1 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=NetR76_1 Pin=U8-5
+Added Pin To Net: NetName=NetCFF_1 Pin=U8-7
+Added Pin To Net: NetName=NetC33_1 Pin=USB1-1
+Added Pin To Net: NetName=NetC33_1 Pin=USB1-2
+Added Pin To Net: NetName=NetC33_1 Pin=USB1-3
+Added Pin To Net: NetName=NetC33_1 Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1B12
+Added Pin To Net: NetName=DOWN_VBUS Pin=USB1-A4B9
+Added Pin To Net: NetName=GND Pin=USB1-B1A12
+Added Pin To Net: NetName=DOWN_VBUS Pin=USB1-B4A9
+Added Pin To Net: NetName=P12 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=P13 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=3_单片机 Member=Component C1 12pF
+Added Member To Class: ClassName=3_单片机 Member=Component C2 12pF
+Added Member To Class: ClassName=1_电源 Member=Component C3 1uF/50V
+Added Member To Class: ClassName=1_电源 Member=Component C4 10uF
+Added Member To Class: ClassName=1_电源 Member=Component C5 1uF/50V
+Added Member To Class: ClassName=4_CS5266 Member=Component C6 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C7 NC
+Added Member To Class: ClassName=2_接口 Member=Component C8 NC
+Added Member To Class: ClassName=3_单片机 Member=Component C9 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C10 NC
+Added Member To Class: ClassName=3_单片机 Member=Component C11 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C12 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C13 NC
+Added Member To Class: ClassName=3_单片机 Member=Component C14 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C15 104
+Added Member To Class: ClassName=4_CS5266 Member=Component C16 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C17 NC
+Added Member To Class: ClassName=4_CS5266 Member=Component C18 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C19 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C20 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C21 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C22 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C29 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C30 4.7uF
+Added Member To Class: ClassName=4_CS5266 Member=Component C31 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C32 100nF
+Added Member To Class: ClassName=3_单片机 Member=Component C33 104
+Added Member To Class: ClassName=4_CS5266 Member=Component C34 4.7uF
+Added Member To Class: ClassName=2_接口 Member=Component C35 104
+Added Member To Class: ClassName=2_接口 Member=Component C36 104
+Added Member To Class: ClassName=4_CS5266 Member=Component C37 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C38 100nF
+Added Member To Class: ClassName=4_CS5266 Member=Component C39 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C40 104
+Added Member To Class: ClassName=2_接口 Member=Component C41 560pF
+Added Member To Class: ClassName=2_接口 Member=Component C42 104
+Added Member To Class: ClassName=4_CS5266 Member=Component C43 100nF
+Added Member To Class: ClassName=1_电源 Member=Component C44 10uF
+Added Member To Class: ClassName=1_电源 Member=Component C45 1uF
+Added Member To Class: ClassName=1_电源 Member=Component C46 104
+Added Member To Class: ClassName=1_电源 Member=Component C47 104
+Added Member To Class: ClassName=1_电源 Member=Component C48 1uF
+Added Member To Class: ClassName=1_电源 Member=Component C49 10uF
+Added Member To Class: ClassName=4_CS5266 Member=Component C50 4.7uF
+Added Member To Class: ClassName=4_CS5266 Member=Component C51 10uF
+Added Member To Class: ClassName=1_电源 Member=Component C52 10uF
+Added Member To Class: ClassName=1_电源 Member=Component C53 1uF
+Added Member To Class: ClassName=1_电源 Member=Component C54 104
+Added Member To Class: ClassName=1_电源 Member=Component C55 104
+Added Member To Class: ClassName=1_电源 Member=Component C56 1uF
+Added Member To Class: ClassName=1_电源 Member=Component C57 10uF
+Added Member To Class: ClassName=1_电源 Member=Component C58 22uF
+Added Member To Class: ClassName=1_电源 Member=Component C59 22uF
+Added Member To Class: ClassName=1_电源 Member=Component C60 104
+Added Member To Class: ClassName=1_电源 Member=Component C61 22uF
+Added Member To Class: ClassName=1_电源 Member=Component C62 22uF
+Added Member To Class: ClassName=1_电源 Member=Component C63 104
+Added Member To Class: ClassName=2_接口 Member=Component C65 560pF
+Added Member To Class: ClassName=2_接口 Member=Component C67 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C68 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C69 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C70 104
+Added Member To Class: ClassName=2_接口 Member=Component C71 104
+Added Member To Class: ClassName=2_接口 Member=Component C72 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C73 104
+Added Member To Class: ClassName=2_接口 Member=Component C74 104
+Added Member To Class: ClassName=2_接口 Member=Component C75 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C76 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C77 100nF
+Added Member To Class: ClassName=2_接口 Member=Component C78 100nF
+Added Member To Class: ClassName=1_电源 Member=Component CFF 104
+Added Member To Class: ClassName=2_接口 Member=Component CN1 HDMI-019A
+Added Member To Class: ClassName=2_接口 Member=Component CN2 USB-307HE-B-SU
+Added Member To Class: ClassName=2_接口 Member=Component CV1 100uF
+Added Member To Class: ClassName=2_接口 Member=Component CV2 100nF
+Added Member To Class: ClassName=2_接口 Member=Component D1 1N5819-SL
+Added Member To Class: ClassName=1_电源 Member=Component D3 SS54
+Added Member To Class: ClassName=4_CS5266 Member=Component H1 M3
+Added Member To Class: ClassName=4_CS5266 Member=Component H2 M3
+Added Member To Class: ClassName=4_CS5266 Member=Component H3 M3
+Added Member To Class: ClassName=4_CS5266 Member=Component H4 M3
+Added Member To Class: ClassName=1_电源 Member=Component L5 2.2uH
+Added Member To Class: ClassName=1_电源 Member=Component L6 2.2uH
+Added Member To Class: ClassName=1_电源 Member=Component L7 10uH
+Added Member To Class: ClassName=3_单片机 Member=Component LED1 RED
+Added Member To Class: ClassName=1_电源 Member=Component Q1 2N7002
+Added Member To Class: ClassName=1_电源 Member=Component Q2 2N7002
+Added Member To Class: ClassName=1_电源 Member=Component Q3 2N7002
+Added Member To Class: ClassName=1_电源 Member=Component Q4 2N7002
+Added Member To Class: ClassName=3_单片机 Member=Component Q5 2N7002
+Added Member To Class: ClassName=1_电源 Member=Component Q6 AO4805
+Added Member To Class: ClassName=1_电源 Member=Component R1 NC/1K
+Added Member To Class: ClassName=1_电源 Member=Component R2 1K
+Added Member To Class: ClassName=1_电源 Member=Component R3 1K
+Added Member To Class: ClassName=1_电源 Member=Component R4 NC/1K
+Added Member To Class: ClassName=1_电源 Member=Component R5 100K
+Added Member To Class: ClassName=1_电源 Member=Component R6 100K
+Added Member To Class: ClassName=1_电源 Member=Component R7 10K
+Added Member To Class: ClassName=1_电源 Member=Component R8 10K
+Added Member To Class: ClassName=2_接口 Member=Component R9 2.2K
+Added Member To Class: ClassName=1_电源 Member=Component R10 10K
+Added Member To Class: ClassName=2_接口 Member=Component R11 2.2K
+Added Member To Class: ClassName=1_电源 Member=Component R12 10K
+Added Member To Class: ClassName=3_单片机 Member=Component R13 0
+Added Member To Class: ClassName=3_单片机 Member=Component R14 NC
+Added Member To Class: ClassName=2_接口 Member=Component R15 0
+Added Member To Class: ClassName=3_单片机 Member=Component R16 330
+Added Member To Class: ClassName=3_单片机 Member=Component R17 0
+Added Member To Class: ClassName=1_电源 Member=Component R18 10K
+Added Member To Class: ClassName=1_电源 Member=Component R19 10K
+Added Member To Class: ClassName=2_接口 Member=Component R20 0
+Added Member To Class: ClassName=3_单片机 Member=Component R21 10k
+Added Member To Class: ClassName=3_单片机 Member=Component R22 0
+Added Member To Class: ClassName=2_接口 Member=Component R23 1M
+Added Member To Class: ClassName=3_单片机 Member=Component R24 NC
+Added Member To Class: ClassName=3_单片机 Member=Component R25 0
+Added Member To Class: ClassName=3_单片机 Member=Component R26 10k
+Added Member To Class: ClassName=4_CS5266 Member=Component R27 NC
+Added Member To Class: ClassName=4_CS5266 Member=Component R28 0
+Added Member To Class: ClassName=3_单片机 Member=Component R29 10k
+Added Member To Class: ClassName=3_单片机 Member=Component R30 10k
+Added Member To Class: ClassName=3_单片机 Member=Component R32 330K 1%
+Added Member To Class: ClassName=3_单片机 Member=Component R33 330K 1%
+Added Member To Class: ClassName=3_单片机 Member=Component R34 NC
+Added Member To Class: ClassName=3_单片机 Member=Component R36 47K 1%
+Added Member To Class: ClassName=3_单片机 Member=Component R37 47K 1%
+Added Member To Class: ClassName=3_单片机 Member=Component R40 1M
+Added Member To Class: ClassName=2_接口 Member=Component R41 NC
+Added Member To Class: ClassName=2_接口 Member=Component R42 NC
+Added Member To Class: ClassName=2_接口 Member=Component R43 0
+Added Member To Class: ClassName=2_接口 Member=Component R44 0
+Added Member To Class: ClassName=4_CS5266 Member=Component R45 10k
+Added Member To Class: ClassName=2_接口 Member=Component R46 1M
+Added Member To Class: ClassName=2_接口 Member=Component R47 0
+Added Member To Class: ClassName=2_接口 Member=Component R48 NC
+Added Member To Class: ClassName=2_接口 Member=Component R49 NC
+Added Member To Class: ClassName=4_CS5266 Member=Component R50 0
+Added Member To Class: ClassName=4_CS5266 Member=Component R51 0
+Added Member To Class: ClassName=2_接口 Member=Component R52 0
+Added Member To Class: ClassName=2_接口 Member=Component R53 0
+Added Member To Class: ClassName=2_接口 Member=Component R54 0
+Added Member To Class: ClassName=2_接口 Member=Component R55 10K
+Added Member To Class: ClassName=2_接口 Member=Component R56 NC
+Added Member To Class: ClassName=2_接口 Member=Component R57 10K
+Added Member To Class: ClassName=2_接口 Member=Component R58 0
+Added Member To Class: ClassName=2_接口 Member=Component R59 NC
+Added Member To Class: ClassName=1_电源 Member=Component R60 HPCR0603F1R60K9
+Added Member To Class: ClassName=2_接口 Member=Component R61 0
+Added Member To Class: ClassName=1_电源 Member=Component R62 HPCR0603F1R60K9
+Added Member To Class: ClassName=2_接口 Member=Component R63 100K
+Added Member To Class: ClassName=1_电源 Member=Component R64 HPCR0603F1R60K9
+Added Member To Class: ClassName=2_接口 Member=Component R65 1M
+Added Member To Class: ClassName=2_接口 Member=Component R66 NC
+Added Member To Class: ClassName=2_接口 Member=Component R67 NC
+Added Member To Class: ClassName=1_电源 Member=Component R68 HPCR0603F1R60K9
+Added Member To Class: ClassName=4_CS5266 Member=Component R69 0
+Added Member To Class: ClassName=1_电源 Member=Component R70 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R71 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R72 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R73 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R74 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R75 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R76 HPCR0603F1R60K9
+Added Member To Class: ClassName=1_电源 Member=Component R77 HPCR0603F1R60K9
+Added Member To Class: ClassName=2_接口 Member=Component R78 NC
+Added Member To Class: ClassName=2_接口 Member=Component R80 270
+Added Member To Class: ClassName=2_接口 Member=Component R81 270
+Added Member To Class: ClassName=2_接口 Member=Component R82 270
+Added Member To Class: ClassName=2_接口 Member=Component SSSO1 U231-091N-1BLRC19-F1
+Added Member To Class: ClassName=3_单片机 Member=Component SW1 B3U-1000PM
+Added Member To Class: ClassName=3_单片机 Member=Component SW2 B3U-1000PM
+Added Member To Class: ClassName=2_接口 Member=Component U1 VGAS-C
+Added Member To Class: ClassName=3_单片机 Member=Component U2 CH552T
+Added Member To Class: ClassName=4_CS5266 Member=Component U3 CS5266
+Added Member To Class: ClassName=2_接口 Member=Component U5 VL170
+Added Member To Class: ClassName=1_电源 Member=Component U6 LP3220AB5F
+Added Member To Class: ClassName=1_电源 Member=Component U7 LP3220AB5F
+Added Member To Class: ClassName=1_电源 Member=Component U8 TD1583
+Added Member To Class: ClassName=3_单片机 Member=Component USB1 TYPE-C16PIN
+Added Member To Class: ClassName=3_单片机 Member=Component X1 24MHz

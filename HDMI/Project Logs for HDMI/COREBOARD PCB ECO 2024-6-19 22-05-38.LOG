@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=RX1_N Pin=C67-2
+Removed Pin From Net: NetName=TX1_P Pin=C68-2
+Removed Pin From Net: NetName=TX1_N Pin=C69-2
+Removed Pin From Net: NetName=RX1_P Pin=C72-2
+Removed Pin From Net: NetName=TX2_P Pin=C75-2
+Removed Pin From Net: NetName=TX2_N Pin=C76-2
+Removed Pin From Net: NetName=RX2_P Pin=C77-2
+Removed Pin From Net: NetName=RX2_N Pin=C78-2
+Removed Pin From Net: NetName=RX1_P Pin=U5-1
+Removed Pin From Net: NetName=RX1_N Pin=U5-2
+Removed Pin From Net: NetName=TX1_P Pin=U5-4
+Removed Pin From Net: NetName=TX1_N Pin=U5-5
+Removed Pin From Net: NetName=TX2_P Pin=U5-6
+Removed Pin From Net: NetName=TX2_N Pin=U5-7
+Removed Pin From Net: NetName=RX2_P Pin=U5-9
+Removed Pin From Net: NetName=RX2_N Pin=U5-10
+Added Pin To Net: NetName=VL170_RX1_N Pin=C67-2
+Added Pin To Net: NetName=VL170_RX1_N Pin=U5-2
+Added Net: Name=VL170_RX1_N
+Added Pin To Net: NetName=VL170_RX1_P Pin=C72-2
+Added Pin To Net: NetName=VL170_RX1_P Pin=U5-1
+Added Net: Name=VL170_RX1_P
+Added Pin To Net: NetName=VL170_RX2_N Pin=C78-2
+Added Pin To Net: NetName=VL170_RX2_N Pin=U5-10
+Added Net: Name=VL170_RX2_N
+Added Pin To Net: NetName=VL170_RX2_P Pin=C77-2
+Added Pin To Net: NetName=VL170_RX2_P Pin=U5-9
+Added Net: Name=VL170_RX2_P
+Added Pin To Net: NetName=VL170_TX1_N Pin=C69-2
+Added Pin To Net: NetName=VL170_TX1_N Pin=U5-5
+Added Net: Name=VL170_TX1_N
+Added Pin To Net: NetName=VL170_TX1_P Pin=C68-2
+Added Pin To Net: NetName=VL170_TX1_P Pin=U5-4
+Added Net: Name=VL170_TX1_P
+Added Pin To Net: NetName=VL170_TX2_N Pin=C76-2
+Added Pin To Net: NetName=VL170_TX2_N Pin=U5-7
+Added Net: Name=VL170_TX2_N
+Added Pin To Net: NetName=VL170_TX2_P Pin=C75-2
+Added Pin To Net: NetName=VL170_TX2_P Pin=U5-6
+Added Net: Name=VL170_TX2_P
+Added Differential Pair: Name=VL170_RX1
+Added Differential Pair: Name=VL170_RX2
+Added Differential Pair: Name=VL170_TX1
+Added Differential Pair: Name=VL170_TX2

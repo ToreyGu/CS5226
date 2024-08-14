@@ -1,0 +1,19 @@
+Added Differential Pair: Name=D
+Added Differential Pair: Name=HDMI_CK
+Added Differential Pair: Name=HDMI_D0
+Added Differential Pair: Name=HDMI_D1
+Added Differential Pair: Name=HDMI_D2
+Added Differential Pair: Name=IN0
+Added Differential Pair: Name=IN1
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=RX2
+Added Differential Pair: Name=TX1
+Added Differential Pair: Name=TX2
+Added Differential Pair: Name=UFP_AUX
+Added Differential Pair: Name=USB_RX
+Added Differential Pair: Name=USB_TX
+Added Member To Class: ClassName=2_接口 Member=Component R44 0
+Added Room: Name=1_电源
+Added Room: Name=2_接口
+Added Room: Name=3_单片机
+Added Room: Name=4_CS5266

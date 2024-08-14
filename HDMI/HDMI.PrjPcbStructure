@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=1_电源.schdoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_电源.schdoc|FileName=2_接口.schdoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_电源.schdoc|FileName=3_单片机.schdoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1_电源.schdoc|FileName=4_CS5266.schdoc|SheetNumber=4

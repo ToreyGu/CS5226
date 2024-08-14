@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=TX2_P Pin=C75-2
+Added Pin To Net: NetName=TX2_N Pin=C76-2
+Added Pin To Net: NetName=RX2_P Pin=C77-2
+Added Pin To Net: NetName=RX2_N Pin=C78-2
+Added Pin To Net: NetName=TX2_P Pin=U5-6
+Added Pin To Net: NetName=TX2_N Pin=U5-7
+Added Pin To Net: NetName=RX2_P Pin=U5-9
+Added Pin To Net: NetName=RX2_N Pin=U5-10
+Change Net Name : Old Net Name=DP_LANE0+ New Net Name=DP_LANE0_P
+Change Net Name : Old Net Name=DP_LANE0- New Net Name=DP_LANE0_N
+Change Net Name : Old Net Name=DP_LANE1+ New Net Name=DP_LANE1_P
+Change Net Name : Old Net Name=DP_LANE1- New Net Name=DP_LANE1_N
+Added Room: Name=1_电源
+Added Room: Name=2_接口
+Added Room: Name=3_单片机
+Added Room: Name=4_CS5266

@@ -1,0 +1,116 @@
+Change component parameters: Designator = "C42" ("C42"); Footprint = "C0603"; UniqueID = "\gge107" ("\gge107")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.comnull"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "22P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "扩展库"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "22P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "22P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "C0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C9900009970"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "22P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UFP_AUX_P Pin=C35-1
+Added Pin To Net: NetName=UFP_AUX_N Pin=C36-1
+Added Pin To Net: NetName=UFP_CC1 Pin=C65-1
+Added Pin To Net: NetName=IN0_P Pin=C70-1
+Added Pin To Net: NetName=IN0_N Pin=C71-1
+Added Pin To Net: NetName=IN1_P Pin=C73-1
+Added Pin To Net: NetName=IN1_N Pin=C74-1
+Added Pin To Net: NetName=HDMI_D2_P Pin=CN1-1
+Added Pin To Net: NetName=HDMI_D2_N Pin=CN1-3
+Added Pin To Net: NetName=HDMI_D1_P Pin=CN1-4
+Added Pin To Net: NetName=HDMI_D1_N Pin=CN1-6
+Added Pin To Net: NetName=HDMI_D0_P Pin=CN1-7
+Added Pin To Net: NetName=HDMI_D0_N Pin=CN1-9
+Added Pin To Net: NetName=HDMI_CK_P Pin=CN1-10
+Added Pin To Net: NetName=HDMI_CK_N Pin=CN1-12
+Added Pin To Net: NetName=HDMI_HPD Pin=CN1-19
+Added Pin To Net: NetName=UFP_CC1 Pin=R14-1
+Added Pin To Net: NetName=HSYNC_OUT Pin=R15-2
+Added Pin To Net: NetName=VSYNC_OUT Pin=R20-2
+Added Pin To Net: NetName=UFP_CC2_VCON Pin=R24-1
+Added Pin To Net: NetName=UFP_AUX_P Pin=R46-1
+Added Pin To Net: NetName=UFP_CC1 Pin=R47-1
+Added Pin To Net: NetName=UFP_AUX_N Pin=R65-2
+Added Pin To Net: NetName=VGA_R Pin=R80-1
+Added Pin To Net: NetName=VGA_G Pin=R81-1
+Added Pin To Net: NetName=VGA_B Pin=R82-1
+Added Pin To Net: NetName=VGA_SDA Pin=U1-12
+Added Pin To Net: NetName=VGA_SCL Pin=U1-15
+Added Pin To Net: NetName=P13 Pin=U2-16
+Added Pin To Net: NetName=P12 Pin=U2-17
+Added Pin To Net: NetName=DFP_CC1 Pin=USB1-A5
+Added Pin To Net: NetName=DFP_CC2 Pin=USB1-B5
+Added Pin To Net: NetName=CH522_DN Pin=USB1-A7
+Added Pin To Net: NetName=CH522_DN Pin=USB1-B7
+Added Net: Name=CH522_DN
+Added Pin To Net: NetName=CH522_DP Pin=R22-2
+Added Pin To Net: NetName=CH522_DP Pin=R25-2
+Added Pin To Net: NetName=CH522_DP Pin=USB1-A6
+Added Pin To Net: NetName=CH522_DP Pin=USB1-B6
+Added Net: Name=CH522_DP
+Added Pin To Net: NetName=D_N Pin=CN2-A7
+Added Pin To Net: NetName=D_N Pin=R52-2
+Added Pin To Net: NetName=D_N Pin=SSSO1-2
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=CN2-A6
+Added Pin To Net: NetName=D_P Pin=R53-2
+Added Pin To Net: NetName=D_P Pin=SSSO1-3
+Added Net: Name=D_P
+Added Pin To Net: NetName=RX1_N Pin=C67-1
+Added Pin To Net: NetName=RX1_N Pin=CN2-B10
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=C72-1
+Added Pin To Net: NetName=RX1_P Pin=CN2-B11
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX2_N Pin=C78-1
+Added Pin To Net: NetName=RX2_N Pin=CN2-A10
+Added Net: Name=RX2_N
+Added Pin To Net: NetName=RX2_P Pin=C77-1
+Added Pin To Net: NetName=RX2_P Pin=CN2-A11
+Added Net: Name=RX2_P
+Added Pin To Net: NetName=SBU1 Pin=CN2-A8
+Added Pin To Net: NetName=SBU1 Pin=R13-1
+Added Pin To Net: NetName=SBU1 Pin=R48-1
+Added Pin To Net: NetName=SBU1 Pin=R67-2
+Added Pin To Net: NetName=SBU1 Pin=U5-11
+Added Net: Name=SBU1
+Added Pin To Net: NetName=SBU2 Pin=CN2-B8
+Added Pin To Net: NetName=SBU2 Pin=R17-1
+Added Pin To Net: NetName=SBU2 Pin=R49-1
+Added Pin To Net: NetName=SBU2 Pin=R66-2
+Added Pin To Net: NetName=SBU2 Pin=U5-12
+Added Net: Name=SBU2
+Added Pin To Net: NetName=TX1_N Pin=C69-1
+Added Pin To Net: NetName=TX1_N Pin=CN2-A3
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=C68-1
+Added Pin To Net: NetName=TX1_P Pin=CN2-A2
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX2_N Pin=C76-1
+Added Pin To Net: NetName=TX2_N Pin=CN2-B3
+Added Net: Name=TX2_N
+Added Pin To Net: NetName=TX2_P Pin=C75-1
+Added Pin To Net: NetName=TX2_P Pin=CN2-B2
+Added Net: Name=TX2_P
+Added Pin To Net: NetName=USB_RX_N Pin=C42-1
+Added Pin To Net: NetName=USB_RX_N Pin=SSSO1-5
+Added Net: Name=USB_RX_N
+Added Pin To Net: NetName=USB_RX_P Pin=C40-1
+Added Pin To Net: NetName=USB_RX_P Pin=SSSO1-6
+Added Net: Name=USB_RX_P
+Added Pin To Net: NetName=USB_TX_N Pin=R58-2
+Added Pin To Net: NetName=USB_TX_N Pin=SSSO1-8
+Added Net: Name=USB_TX_N
+Added Pin To Net: NetName=USB_TX_P Pin=R54-2
+Added Pin To Net: NetName=USB_TX_P Pin=SSSO1-9
+Added Net: Name=USB_TX_P
+Added Room: Name=1_电源
+Added Room: Name=2_接口
+Added Room: Name=3_单片机
+Added Room: Name=4_CS5266
