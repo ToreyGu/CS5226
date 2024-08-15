@@ -14,6 +14,7 @@ When the main power supply is accessed, the secondary power supply MOS tube is t
 
 Interface Design
 Interface using standard interface, PCB design impedance and interface standard impedance matching can be
+
 接口设计
 接口使用标准接口，PCB设计时阻抗与接口标准的阻抗匹配即可
 
@@ -21,16 +22,20 @@ Interface using standard interface, PCB design impedance and interface standard 
 
 Forward and reverse insertion design
 As this chip program does not have forward and reverse insertion detection function, you need to add another low-cost MCU to detect forward and reverse insertion, do not detect forward and reverse insertion can be disregarded.
+
 正反插设计
 由于本芯片方案没有正反插检测功能，需要另加一片低成本MCU检测正反插，不检测正反插可以不予考虑
 
 ![image](https://github.com/user-attachments/assets/85e0c170-e69a-4e66-b16e-8242780f4596)
 
 Signal Processing Chip Circuit
+
 信号处理芯片电路
+
 ![image](https://github.com/user-attachments/assets/cc0c978e-7314-4468-a9d2-903bdec64dce)
 
 PCB layer thickness design
 PCB层厚度设计
+
 ![image](https://github.com/user-attachments/assets/4a22da90-c7a7-4c4d-9431-3ad1ae5ed2c0)
 
